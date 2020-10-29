@@ -1,0 +1,111 @@
+
+
+
+
+
+@media (max-width:590px ){
+
+.banner-content h1 {
+    
+    
+    font-size: 40px;
+    
+}
+
+
+
+}
+
+
+
+@media (max-width:435px ){
+
+.banner-content h1 {
+    
+    
+    font-size: 35px;
+    
+}
+
+
+
+}
+
+
+
+
+@media (max-width:357px ){
+
+.work-text h1{
+ 
+    width: 280px;
+  
+
+}
+
+
+
+}
+
+
+
+@media (max-width:768px ){
+
+.full-project {
+    margin-top: 10px !important;
+}
+
+
+
+}
+
+
+
+@media (max-width:347px ){
+
+.contact-text h1{
+
+
+    width: 280px;
+    
+
+
+
+}
+
+
+
+}
+
+
+@media (max-width:420px ){
+
+.social-contact.gmail1{
+
+	display: none !important;
+	visibility: hidden;
+	opacity: 0;
+}
+
+
+
+
+
+}
+
+
+@media (max-width:767px ){
+
+.navbar.bg-dark{
+
+	background: black !important;
+	
+	text-align: center;
+}
+
+.navbar{
+
+	border-bottom: 1px solid #ff2015;
+}
+
+}
